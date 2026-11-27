@@ -6,7 +6,7 @@ Your clips never leave your computer.
 Official site: https://framewav.com
 
 ## Download
-Get the latest Windows installer from the Releases page (right side of this page).
+Get the latest Windows installer from the Releases page [(https://github.com/FrameWav/framewav-releases/releases/latest)](https://github.com/FrameWav/framewav-releases/releases/latest)
 Each release lists its SHA-256 checksum so you can verify the file.
 
 ## Windows SmartScreen
